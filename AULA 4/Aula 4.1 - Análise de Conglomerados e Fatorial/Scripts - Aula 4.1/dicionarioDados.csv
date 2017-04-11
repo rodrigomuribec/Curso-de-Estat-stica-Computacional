@@ -1,0 +1,9 @@
+Variável;Descrição;;;
+Idade;variável numérica;;;
+Sexo;"1 = masculino; 2 = feminino";;;
+Renda;variável numérica;;;
+Escolaridade;"1=primeiroGrau; 2=segundoGrau; 3=superior ";;;
+Estado_civil ;"1=solteiro; 2=casado";;;
+Altura;variável numérica;;;
+Peso;variável numérica;;;
+Moradia;"1=casa; 2=apartamento";;;
