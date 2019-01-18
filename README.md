@@ -1,1 +1,1 @@
-# Curso-de-Estat-stica-Computacional
+# Curso de Estatstica Computacional com R;
